@@ -4,8 +4,8 @@ body {
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 18px;
     line-height: 150%;
-    color: #333;
-    background: #efeee7;
+    color: rgb(230, 227, 227);
+    background: #07127273;
   }
   
   header {
